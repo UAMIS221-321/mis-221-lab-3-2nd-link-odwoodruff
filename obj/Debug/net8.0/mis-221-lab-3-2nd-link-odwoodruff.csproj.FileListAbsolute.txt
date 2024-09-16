@@ -1,0 +1,15 @@
+/Users/osheawoodruff/Desktop/MIS_LAB_Notes/mis-221-lab-3-2nd-link-odwoodruff/bin/Debug/net8.0/mis-221-lab-3-2nd-link-odwoodruff
+/Users/osheawoodruff/Desktop/MIS_LAB_Notes/mis-221-lab-3-2nd-link-odwoodruff/bin/Debug/net8.0/mis-221-lab-3-2nd-link-odwoodruff.deps.json
+/Users/osheawoodruff/Desktop/MIS_LAB_Notes/mis-221-lab-3-2nd-link-odwoodruff/bin/Debug/net8.0/mis-221-lab-3-2nd-link-odwoodruff.runtimeconfig.json
+/Users/osheawoodruff/Desktop/MIS_LAB_Notes/mis-221-lab-3-2nd-link-odwoodruff/bin/Debug/net8.0/mis-221-lab-3-2nd-link-odwoodruff.dll
+/Users/osheawoodruff/Desktop/MIS_LAB_Notes/mis-221-lab-3-2nd-link-odwoodruff/bin/Debug/net8.0/mis-221-lab-3-2nd-link-odwoodruff.pdb
+/Users/osheawoodruff/Desktop/MIS_LAB_Notes/mis-221-lab-3-2nd-link-odwoodruff/obj/Debug/net8.0/mis-221-lab-3-2nd-link-odwoodruff.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osheawoodruff/Desktop/MIS_LAB_Notes/mis-221-lab-3-2nd-link-odwoodruff/obj/Debug/net8.0/mis-221-lab-3-2nd-link-odwoodruff.AssemblyInfoInputs.cache
+/Users/osheawoodruff/Desktop/MIS_LAB_Notes/mis-221-lab-3-2nd-link-odwoodruff/obj/Debug/net8.0/mis-221-lab-3-2nd-link-odwoodruff.AssemblyInfo.cs
+/Users/osheawoodruff/Desktop/MIS_LAB_Notes/mis-221-lab-3-2nd-link-odwoodruff/obj/Debug/net8.0/mis-221-lab-3-2nd-link-odwoodruff.csproj.CoreCompileInputs.cache
+/Users/osheawoodruff/Desktop/MIS_LAB_Notes/mis-221-lab-3-2nd-link-odwoodruff/obj/Debug/net8.0/mis-221-lab-3-2nd-link-odwoodruff.sourcelink.json
+/Users/osheawoodruff/Desktop/MIS_LAB_Notes/mis-221-lab-3-2nd-link-odwoodruff/obj/Debug/net8.0/mis-221-lab-3-2nd-link-odwoodruff.dll
+/Users/osheawoodruff/Desktop/MIS_LAB_Notes/mis-221-lab-3-2nd-link-odwoodruff/obj/Debug/net8.0/refint/mis-221-lab-3-2nd-link-odwoodruff.dll
+/Users/osheawoodruff/Desktop/MIS_LAB_Notes/mis-221-lab-3-2nd-link-odwoodruff/obj/Debug/net8.0/mis-221-lab-3-2nd-link-odwoodruff.pdb
+/Users/osheawoodruff/Desktop/MIS_LAB_Notes/mis-221-lab-3-2nd-link-odwoodruff/obj/Debug/net8.0/mis-221-lab-3-2nd-link-odwoodruff.genruntimeconfig.cache
+/Users/osheawoodruff/Desktop/MIS_LAB_Notes/mis-221-lab-3-2nd-link-odwoodruff/obj/Debug/net8.0/ref/mis-221-lab-3-2nd-link-odwoodruff.dll
